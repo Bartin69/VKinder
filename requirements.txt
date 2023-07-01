@@ -1,0 +1,4 @@
+SQLAlchemy==2.0.16
+vkbottle==4.3.12
+orjson
+aiomysql==0.1.1
